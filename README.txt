@@ -1,0 +1,3 @@
+Basics of farm grid
+A bit slow and doesn’t work properly on mobile (yet)
+reminds me of sim city 2000....
